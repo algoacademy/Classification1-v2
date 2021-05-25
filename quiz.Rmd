@@ -130,7 +130,7 @@ Based on the `model_logictic` you have made above, take a look at the summary of
 ___
 3. Logistic regression is one of the interpretable models. We can explain how likely each variable predicts the class we observe. Based on the model summary above, what can be interpreted from the `salarymedium` coefficient?
   - [ ] The probability of an employee that received medium salary to resign is 1.50.
-  - [ ] Employee who received medium salary is about 1.50 more likely to resign than the employee who received the other levels of salary.
+  - [ ] Employee who received medium salary is about 4.48 more likely to resign than the employee who received the other levels of salary.
   - [ ] Employee who received medium salary is about 4.48 more likely to resign than the employee who received high salary.
 ___
 

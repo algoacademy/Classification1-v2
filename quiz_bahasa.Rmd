@@ -102,7 +102,7 @@ Mari kita lihat proporsi kelas target pada data `train` menggunakan fungsi `prop
 
 ___
 2. Berdasarkan hasil di atas, manakah pernyataan di bawah ini yang paling tepat?
-  - [ ] Distribusi dikatakan tidak seimbang, namun kita tidak perlu membuat proporsi kelas target seimbang.
+  - [ ] Distribusi dikatakan tidak seimbang, kita tidak perlu membuat proporsi kelas target seimbang.
   - [ ] Distribusi dikatakan seimbang, namun kita tidak perlu membuat proporsi kelas target seimbang.
   - [ ] Distribusi dikatakan seimbang, namun kita juga harus menguji apakah proporsi kelas pada data test dapat dikatakan seimbang.
   - [ ] Distribusi dikatakan seimbang, dan hal ini penting sehingga model dapat memprediksi dengan baik kedua kelas target.
@@ -132,12 +132,12 @@ Berdasarkan `model_logistic` yang telah Anda buat, mari kita lihat ringkasan mod
 ___
 3. Regresi logistik adalah salah satu model yang dapat diinterpretasikan. Kita dapat menjelaskan bagaimana masing-masing variabel memberikan pengaruh pada hasil prediksi. Berdasarkan ringkasan model di atas, apa yang dapat diinterpretasikan dari koefisien `salarymedium`?
   - [ ] Probabilitas karyawan yang mendapatkan medium salary untuk mengundurkan diri adalah sebesar 1.50.
-  - [ ] Karyawan yang mendapatkan medium salary 1.50 kali lebih mungkin untuk mengundurkan diri dibandingkan karyawan yang menerima kategori salary lainnya.
+  - [ ] Karyawan yang mendapatkan medium salary 4.48 kali lebih mungkin untuk mengundurkan diri dibandingkan karyawan yang menerima kategori salary lainnya.
   - [ ] Karyawan yang mendapatkan medium salary 4.48 kali lebih mungkin untuk mengundurkan diri dibandingkan karyawan yang menerima high salary.
 
 *Referensi Opsi Bahasa Inggris:*
   - [ ] The probability of an employee that received medium salary to resign is 1.50.
-  - [ ] Employee who received medium salary is about 1.50 more likely to resign than the employee who received the other levels of salary.
+  - [ ] Employee who received medium salary is about 4.48 more likely to resign than the employee who received the other levels of salary.
   - [ ] Employee who received medium salary is about 4.48 more likely to resign than the employee who received high salary.
 
 ___
