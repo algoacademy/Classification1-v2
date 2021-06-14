@@ -266,7 +266,11 @@ Buatlah *confusion matrix* yang sama untuk hasil prediksi `model_knn` dan label 
 # your code here
 ```
 
-Katakanlah kita bekerja sebagai staf HR pada suatu perusahaan. Kita ingin mengetahui manakah karyawan yang memiliki potensi tinggi untuk mengundurkan diri sehingga kita dapat melakukan pendekatan sesegera mungkin. Sebagai pertimbangan tambahan, perusahaan sedang dalam masa pemulihan dari krisis ekonomi belakangan ini, sehingga diharapkan bahwa kebanyakan hasil prediksi terbukti tepat untuk mencegah eksploitasi anggaran yang berlebih. Sekarang cobalah untuk menjawab pertanyaan di bawah ini.
+Katakanlah kita bekerja sebagai staf HR pada suatu perusahaan. Kita ingin mengetahui manakah karyawan yang memiliki potensi tinggi untuk mengundurkan diri sehingga kita dapat melakukan pendekatan sesegera mungkin. 
+
+Sebagai catatan tambahan, perusahaan lebih fokus dalam menghasilkan prediksi yang tepat daripada mendeteksi sebanyak mungkin karyawan yang mungkin mengundurkan diri. Hal ini untuk menghindari anggaran yang tidak perlu untuk karyawan yang keliru diprediksi mengundurkan diri. 
+
+Sekarang coba jawab pertanyaan di bawah ini.
 
 ___
 7. Manakah *metrics* yang tepat untuk mengevaluasi kebaikan model berdasarkan kebutuhan bisnis di atas?
